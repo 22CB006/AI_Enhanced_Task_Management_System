@@ -1,0 +1,12 @@
+{
+    "name": "ai-powered-task-management-system",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+        "client",
+        "server"
+    ],
+    "dependencies": {
+        "ai-powered-task-management-system": "file:"
+    }
+}

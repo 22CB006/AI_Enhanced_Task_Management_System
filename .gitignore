@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Optional: Tailwind & PostCSS cache
+.postcssrc
+tailwind.config.js
